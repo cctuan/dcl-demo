@@ -9,6 +9,10 @@
     "name": "author-name",
     "email": ""
   },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
   "owner": "",
   "scene": {
     "parcels": [
